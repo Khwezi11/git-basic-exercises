@@ -1,0 +1,241 @@
+    1  pip install -U streamlit numpy pandas scikit-learn
+    2  python --version
+    3  conda --version
+    4  cd Desktop
+    5  cd unsupervised-predict-streamlit-template/
+    6  streamlit run edsa_recommender.py
+    7  cd Desktop
+    8  cd ..
+    9  pip install -U streamlit numpy pandas scikit-learn
+   10  conda install -c conda-forge scikit-surprise
+   11  git clone https://github.com/Amukelani-Ngobeni/unsupervised-predict-streamlit-template.git
+   12  cd unsupervised-predict-streamlit-template/
+   13  streamlit run edsa_recommender.py
+   14  node -v
+   15  dir
+   16  ls
+   17  pwd
+   18  cd Desktop
+   19  mkdir TTT
+   20  cd TTT
+   21  mkdir aaa
+   22  cd aaa
+   23  cd ..
+   24  cd ../..
+   25  git --version
+   26   cd Desktop/
+   27  mkdir git-basic-exercises
+   28  cd git-basic-exercises/
+   29  la -a
+   30  ls -a
+   31  ls
+   32  git init
+   33  ls -a
+   34  git status
+   35  touch README.md
+   36  ls -a
+   37  git status
+   38  git log
+   39  git add
+   40  git add .
+   41  git status
+   42  git rm
+   43  git rm -i README.md
+   44  git rm \README.md
+   45  git status
+   46  git commit -m "initial commit"
+   47  git log
+   48  cd ..
+   49  git config --global --unset-all
+   50  git config --global --unset-all
+   51  git config --global --unset credential.helper
+   52  cd git-basic-exercises
+   53  git status
+   54  ls
+   55  git add .
+   56  git log
+   57  git config --global --unset credential.helper
+   58  git config --global --unset user.name
+   59  git config --global --unset user.email
+   60  git config --global --unset credential.helper
+   61  git push
+   62  git config --user.name 'Khwezi11'
+   63  git config --global user.name 'Khwezi11'
+   64  git config --global user.email 'khwezizama@gmail.com'
+   65  pwd
+   66  cd Desktop
+   67  ls
+   68  cd git-basic-exercises/
+   69  git init
+   70  Phili@DESKTOP-PG9OC7N MINGW64 ~
+   71  $ git config --user.name 'Khwezi11'
+   72  error: unknown option `user.name'
+   73  usage: git config [<options>]
+   74  Config file location
+   75      --global              use global config file
+   76      --system              use system config file
+   77      --local               use repository config file
+   78      --worktree            use per-worktree config file
+   79      -f, --file <file>     use given config file
+   80      --blob <blob-id>      read config from given blob object
+   81  Action
+   82      --get                 get value: name [value-pattern]
+   83      --get-all             get all values: key [value-pattern]
+   84      --get-regexp          get values for regexp: name-regex [value-pattern]
+   85      --get-urlmatch        get value specific for the URL: section[.var] URL
+   86      --replace-all         replace all matching variables: name value [value-patt
+   87      --add                 add a new variable: name value
+   88      --unset               remove a variable: name [value-pattern]
+   89      --unset-all           remove all matches: name [value-pattern]
+   90      --rename-section      rename section: old-name new-name
+   91      --remove-section      remove a section: name
+   92      -l, --list            list all
+   93      --fixed-value         use string equality when comparing values to 'value-pa
+   94      -e, --edit            open an editor
+   95      --get-color           find the color configured: slot [default]
+   96      --get-colorbool       find the color setting: slot [stdout-is-tty]
+   97  Type
+   98      -t, --type <>         value is given this type
+   99      --bool                value is "true" or "false"
+  100      --int                 value is decimal number
+  101      --bool-or-int         value is --bool or --int
+  102      --bool-or-str         value is --bool or string
+  103      --path                value is a path (file or directory name)
+  104      --expiry-date         value is an expiry date
+  105  Other
+  106      -z, --null            terminate values with NUL byte
+  107      --name-only           show variable names only
+  108      --includes            respect include directives on lookup
+  109      --show-origin         show origin of config (file, standard input, blob, come)
+  110      --show-scope          show scope of config (worktree, local, global, system,)
+  111      --default <value>     with --get, use default value when missing entry
+  112  Phili@DESKTOP-PG9OC7N MINGW64 ~
+  113  $ git config --global user.name 'Khwezi11'
+  114  Phili@DESKTOP-PG9OC7N MINGW64 ~
+  115  $ git config --global user.email 'khwezizama@gmail.com'
+  116  Phili@DESKTOP-PG9OC7N MINGW64 ~
+  117  $ pwd
+  118  /c/Users/Phili
+  119  Phili@DESKTOP-PG9OC7N MINGW64 ~
+  120  $ cd Desktop
+  121  Phili@DESKTOP-PG9OC7N MINGW64 ~/Desktop
+  122  $ ls
+  123  '01854_15-ONE-ONEPLAN - Oneplan Pet Insurance Claim Form - 01042015.pdf'
+  124  '20201113_102751633 - Shortcut.lnk'*
+  125  '20201113_102828185 - Shortcut.lnk'*
+  126  '20201113_102904120 - Shortcut.lnk'*
+  127  '20201113_103049307 - Shortcut.lnk'*
+  128  '20201113_103122741 - Shortcut.lnk'*
+  129  '20210129_223346619 - Shortcut.lnk'*
+  130  '22008661 - Shortcut.lnk'*
+  131   ANRSnap/
+  132   Android/
+  133  'CT-transverse-anatomy test quiz.pdf'
+  134   CloudDrive/
+  135   DCIM/
+  136   Documents/
+  137   Download/
+  138   FileCache/
+  139   Huawei/
+  140   HuaweiBackup/
+  141  'Install Kaspersky Total Security version 19.0.0.1088.lnk'*
+  142   Installation/
+  143  'Latest Imaging in Acute Pancreatitis [Autosaved] [Autosaved].pptm'
+  144   Lease_Agreement_No_CPA_-_January_2016.pdf
+  145  'Microsoft Edge.lnk'*
+  146   Mob/
+  147   Music/
+  148  'New folder'/
+  149  'New folder (2)'/
+  150   Notifications/
+  151   Pictures/
+  152   SHAREit/
+  153   ShareSDK/
+  154   Sounds/
+  155   TTT/
+  156  'Traversy Media (Git & Github tutorials)'/
+  157  'US presentation.docx'
+  158   Umuzi/
+  159   Untitled.ipynb
+  160  'Visual Studio Code.lnk'*
+  161   WhatsApp/
+  162   bluetooth/
+  163  'budget amended.csv'
+  164   budget.csv
+  165   com.facebook.katana/
+  166   desktop.ini
+  167   git-basic-exercises/
+  168   huaweisystem/
+  169   khwezi/
+  170  'shaun part 1 radiology'/
+  171   tbs/
+  172  '~$ presentation.docx'
+  173  Phili@DESKTOP-PG9OC7N MINGW64 ~/Desktop
+  174  $ cd git-basic-exercises/
+  175  Phili@DESKTOP-PG9OC7N MINGW64 ~/Desktop/git-basic-exercises (master)
+  176  $ git init
+  177  Reinitialized existing Git repository in C:/Users/Phili/Desktop/git-basic-exercises/.git/
+  178  Phili@DESKTOP-PG9OC7N MINGW64 ~/Desktop/git-basic-exercises (master)
+  179  $
+  180  cd git-basic-exercises/
+  181  touch README.md
+  182  git status
+  183  git log
+  184  mkdir git-basic-exercises
+  185  cd git-basic-exercises/
+  186  ls -a
+  187  git init
+  188  touch README.md
+  189  git log
+  190  git add .
+  191  git status
+  192  git log
+  193  git commit -m "initial commit"
+  194  git log
+  195  q
+  196  q
+  197  nano README.md
+  198  cat README.md
+  199  git status
+  200  git commit -m 'second commit'
+  201  git add .
+  202  git add .
+  203  git status
+  204  git commit -m 'second commit'
+  205  git log
+  206  q
+  207  git q
+  208  z
+  209  nano README.md
+  210  cat README.md
+  211  git status
+  212  git add .
+  213  git add .
+  214  git commit -m 'third commit'
+  215  git log
+  216  q
+  217  git checkout affded405e5f145ffcb1a1ea58a696f0be079960
+  218  cat README.md
+  219  git checkout main
+  220  git checkout
+  221  cat README.md
+  222  git checkout git-basic-exercises
+  223  git checkout main
+  224  git checkout master
+  225  cat README.md
+  226  git branch
+  227  git branch milkshake-flavours
+  228  git checkout milkshake-flavours
+  229  nano milkshakes.md
+  230  git status
+  231  git add .
+  232  git add .
+  233  git commit -m 'added initial flavours'
+  234  git log
+  235  q
+  236  git checkout master
+  237  git branch history
+  238  git checkout history
+  239  git log
+  240  git branch
+  241  history > history.txt
